@@ -1,0 +1,29 @@
+{
+  "name": "wwwcore-message",
+  "main": "./wwwcore-message.min.js",
+  "version": "1.0.2",
+  "homepage": "https://github.com/yoctod/wwwcore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Wwwcoin Message Verification and Signing for Litecore",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "wwwcoin",
+    "wwwcore",
+    "www",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
